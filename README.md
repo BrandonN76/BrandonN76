@@ -22,7 +22,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <b>Cisco Packet Tracer:</b>
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">Access List</a>
+<a href="https://github.com/BrandonN76/Access-List-Lab">Access List</a>
 
 <b>Endpoint Detection:</b>
 
