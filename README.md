@@ -16,7 +16,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <a href="https://github.com/BrandonN76/BrandonN76/main">Wannacry</a> (Preformed with ANY.RUN)
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">NJRAT</a> (Preformed with ANY.RUN)
+<a href="https://github.com/BrandonN76/NJRat/blob/main/README.md">NJRAT</a> (Preformed with ANY.RUN)
 
 <a href="https://github.com/BrandonN76/BrandonN76/main">DCRAT</a> (Preformed with ANY.RUN)
 
