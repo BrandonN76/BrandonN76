@@ -8,7 +8,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 <h2>Cybersecurity Projects:</h2>
 <b>Malware Analysis:</b>
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">Amadey</a> (Preformed with flare-vm)
+<a href="https://github.com/BrandonN76/Amadey/blob/main/README.md">Amadey</a> (Preformed with flare-vm)
 
 <a href="https://github.com/BrandonN76/RedLineStealer/blob/main/README.md">RedLineStealer</a> (Preformed with flare-vm)
 
