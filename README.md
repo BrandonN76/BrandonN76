@@ -26,7 +26,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <b>Endpoint Detection:</b>
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">Endpoint detection</a> (Attacker and defender perspective)
+<a href="https://github.com/BrandonN76/Endpoint-Detection">Endpoint detection</a> (Attacker and defender perspective)
 
 
 <h2>Certifications</h2>
