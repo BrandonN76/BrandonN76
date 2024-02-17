@@ -10,7 +10,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <a href="https://github.com/BrandonN76/BrandonN76/main">Amadey</a> (Preformed with flare-vm)
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">RedLineStealer</a> (Preformed with flare-vm)
+<a href="https://github.com/BrandonN76/RedLineStealer/blob/main/README.md">RedLineStealer</a> (Preformed with flare-vm)
 
 <a href="https://github.com/BrandonN76/Agent-Tesla/blob/main/README.md">Agent Tesla</a> (Preformed with flare-vm)
 
