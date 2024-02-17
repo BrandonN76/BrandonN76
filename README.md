@@ -14,7 +14,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <a href="https://github.com/BrandonN76/Agent-Tesla/blob/main/README.md">Agent Tesla</a> (Preformed with flare-vm)
 
-<a href="https://github.com/BrandonN76/BrandonN76/main">Wannacry</a> (Preformed with ANY.RUN)
+<a href="https://github.com/BrandonN76/Wannacry">Wannacry</a> (Preformed with ANY.RUN)
 
 <a href="https://github.com/BrandonN76/NJRat/blob/main/README.md">NJRAT</a> (Preformed with ANY.RUN)
 
