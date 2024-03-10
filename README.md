@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This GitHub repository serves as a personal archive of my cybersecurity projects, designed to track my progress and expand my knowledge in the field, particularly in digital forensics. By documenting my projects here, I aim to expand my understanding of cybersecurity concepts and techniques while improving my practical skills.
+This GitHub repository serves as a personal archive of my cybersecurity projects, designed to track my progress as I expand my knowledge in the field. By documenting my projects here, I aim to expand my understanding of cybersecurity concepts and techniques while improving my practical skills.
 
 
 <h2>Cybersecurity Projects:</h2>
@@ -28,6 +28,9 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <a href="https://github.com/BrandonN76/Endpoint-Detection">Endpoint detection</a> (Attacker and defender perspective)
 
+<b>SOC Automation:</b>
+
+<a href="https://github.com/BrandonN76/Endpoint-Detection">SOC Automation Lab</a>
 
 <h2>Certifications</h2>
 <div>
