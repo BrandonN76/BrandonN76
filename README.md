@@ -30,7 +30,7 @@ This GitHub repository serves as a personal archive of my cybersecurity projects
 
 <b>SOC Automation:</b>
 
-<a href="https://github.com/BrandonN76/Endpoint-Detection">SOC Automation Lab</a>
+<a href="https://github.com/BrandonN76/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
 
 <h2>Certifications</h2>
 <div>
