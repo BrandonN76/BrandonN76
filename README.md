@@ -2,10 +2,10 @@
 
 <h2>Description</h2>
 
-This GitHub repository serves as a personal archive of my cybersecurity projects, designed to track my progress as I expand my knowledge in the field. By documenting my projects here, I aim to expand my understanding of cybersecurity concepts and techniques while improving my practical skills.
+This GitHub repository serves as a personal archive of my IT projects, designed to track my progress as I expand my knowledge in the field. By documenting my projects here, I aim to expand my understanding of IT concepts and techniques while improving my practical skills.
 
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 <b>Malware Analysis:</b>
 
 <a href="https://github.com/BrandonN76/Amadey/blob/main/README.md">Amadey</a> (Preformed with flare-vm)
