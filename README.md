@@ -40,9 +40,13 @@ This GitHub repository serves as a personal archive of my IT projects, designed 
   <a href="http://verify.CompTIA.org">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+"/>
   </a>
+  <a href="http://verify.CompTIA.org">
+    <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+"/>
+  </a>
   <a href="https://elearning.securityblue.team/verify">
     <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Level%201-007ACC?&style=for-the-badge&logo=SBT&logoColor=white"/>
   </a>
   <p>Verification Code for SBT1: 107900553</p>
   <p>Verification Code for CompTIA Security+: N7D3MMMT1FV11EC5</p>
+  <p>Verification Code for CompTIA Network+: LEBCK2K6BBFQ1D5G</p>
 </div>
